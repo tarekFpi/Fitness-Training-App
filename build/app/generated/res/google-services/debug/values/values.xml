@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1091654290308-h8liojdpe1anbf923hs08ijri7p1rb3v.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1091654290308</string>
+    <string name="google_api_key" translatable="false">AIzaSyAt3Foz2MDZnDxWC4u2dFsh_sxEbA_k24s</string>
+    <string name="google_app_id" translatable="false">1:1091654290308:android:28c05cb1dd610bd1932bd1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAt3Foz2MDZnDxWC4u2dFsh_sxEbA_k24s</string>
+    <string name="google_storage_bucket" translatable="false">tailaauth.firebasestorage.app</string>
+    <string name="project_id" translatable="false">tailaauth</string>
+</resources>

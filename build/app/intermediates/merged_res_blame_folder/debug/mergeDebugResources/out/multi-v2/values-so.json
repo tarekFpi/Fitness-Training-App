@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.fitness_training_app-mergeDebugResources-103:/values-so/values-so.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Tarek\\.gradle\\caches\\8.8\\transforms\\6b9df1fdd76ca8f5ed3af4f38dc67942\\transformed\\jetified-hcaptcha-20.52.2\\res\\values-so\\values-so.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "87",
+                        "endOffsets": "138"
+                    }
+                }
+            ]
+        }
+    ]
+}
